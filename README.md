@@ -63,7 +63,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu ambiente:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/agenda-frontend.git
+git clone [https://github.com/seu-usuario/agenda-frontend.git](https://github.com/Sandokanalves/Agenda_Frontend_VueJS.git)
 cd agenda-frontend
 ```
 
